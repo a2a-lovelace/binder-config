@@ -1,2 +1,2 @@
-# numpy-sympy-binder
+# numpy scipy matplotlib sympy
 test binder
